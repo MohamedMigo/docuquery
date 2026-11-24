@@ -1,0 +1,2 @@
+# Solar panels
+Photovoltaic panels convert sunlight directly into electricity using semiconductor cells. Most residential panels are made of monocrystalline silicon and reach efficiencies between 18 and 22 percent. Panel output drops by roughly 0.5 percent each year, so a typical panel still produces about 87 percent of its rated power after 25 years. Inverters convert the direct current from panels into alternating current for the home.
